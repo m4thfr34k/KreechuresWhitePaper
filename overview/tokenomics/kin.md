@@ -9,7 +9,7 @@ Kreechures' in-game and reward (staking) token is named [Kin](https://kin.org/).
 
 We chose to utilize an existing coin for our economy rather than creating yet another new coin (YANC).
 
-Why did we do this? How does it benefit the collectors and the project?
+Why did we do this? How does it benefit the collectors and the project? How does it help our sustainability?
 
 ### **TLDR summary:**
 
@@ -18,15 +18,11 @@ Why did we do this? How does it benefit the collectors and the project?
 * This provides collectors additional confidence that the value of their rewards is not dependent on the current state of the NFT ecosystem in general and Kreechures specifically
 * Kreechures could die a long, or short, painful death and your coins will have the same value they had prior
 
-
-
 So, you're saying you don't have confidence that Kreechures could successfully create a new coin?
 
 It doesn't matter what type of project, organization, and/or business you are in. Creating a new, successful coin that has long-term value is almost an impossible task. It's immensely difficult to do and there are entire companies and huge enterprises that have attempted this, and focused solely on this, and failed.
 
 We want to focus on our core value prop and not add another insanely difficult, and unnecessary, challenge on top of that.
-
-
 
 ### **Longer discussion:**
 
