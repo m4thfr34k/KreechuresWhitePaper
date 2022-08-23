@@ -16,4 +16,4 @@ More info coming soon!!
 
 **For Kreechure owners** - As discussed, an affiliate marketing program is in development that will result in participants receiving a portion of the 1% fee included in sales. More to follow.
 
-{Of note, this concept of affiliate marketing for NFT collections began with Taiyo Robotics. I can't express enough appreciation to them for searching for sustainable, legal avenues to reward collectors.}
+{_Of note, this concept of affiliate marketing for NFT collections began with Taiyo Robotics. I can't express enough appreciation to them for searching for sustainable, legal avenues to reward collectors._}
