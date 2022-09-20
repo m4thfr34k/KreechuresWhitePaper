@@ -10,6 +10,7 @@
     * [Shadow](overview/tokenomics/shadow.md)
   * [Sustainability](overview/sustainability.md)
   * [Value creation](overview/value-creation.md)
+* [Royalties](royalties.md)
 * [Games](games/README.md)
   * [RPG](games/rpg.md)
   * [Racing](games/racing.md)
