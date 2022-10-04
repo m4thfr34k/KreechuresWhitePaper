@@ -6,7 +6,7 @@ description: Solana has a discoverability problem. We intend to fix it.
 
 Venatrix is a specialty, high-touch marketplace, utilizing multiple coins (Kin, USDC, Dust, SHDW, etc.), laser focused on existing collections that are consistently delivering value to their collectors and the Solana ecosystem.
 
-The PoC, includes Kreechures only, is at [Venatrix](https://www.venatrix.xyz/)
+The PoC, includes Kreechures only, is at [Venatrix](https://www.venatrix.xyz/).
 
 The v2 Venatrix site includes:
 

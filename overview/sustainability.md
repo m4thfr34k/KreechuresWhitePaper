@@ -13,7 +13,7 @@ It's one thing to be buying into a project because the community is awesome or t
 
 For any other NFT project, you begin to mitigate risk when you ask the project critical questions like:
 
-* What skills does the current team have? Are they doxxed? What's their LinkedIn, or whatever professional network is used in their region? At the end of the day, do you trust these people and does it look like it's within the realm of the possible for them to deliver on their promises?
+* What skills does the current team have? Are they doxxed? What's their LinkedIn, or whatever professional network used in their region? At the end of the day, do you trust these people and does it look like it's within the realm of the possible for them to deliver on their promises?
 * What is the long term plan for generating revenue beyond mint funds or royalties? If the project economy is based on these funds alone then you're approaching ponzi territory, to put it nicely.&#x20;
 * Is your planned utility regulated in some special way, e.g. gambling? If so, what is your compliance plan?
 * Are you releasing a token? How do you plan to meet those compliance requirements? What is your plan for creating actual value for that token?
