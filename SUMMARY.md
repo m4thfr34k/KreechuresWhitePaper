@@ -15,7 +15,7 @@
   * [RPG](games/rpg.md)
   * [Racing](games/racing.md)
 * [Staking](staking.md)
-* [Venatrix](venatrix/README.md)
+* [Venatrix](venatrix.md)
   * [Affiliate Marketing Program](venatrix/affiliate-marketing-program.md)
 * [Raffle](raffle.md)
 * [The Team](the-team.md)
