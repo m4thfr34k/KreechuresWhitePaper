@@ -1,6 +1,6 @@
 ---
 description: >-
-  Deck 2 Kreechures are being updated so the current owner receives 4% royalties
+  Deck 2 Kreechures have been updated so the current owner receives 4% royalties
   from every sell. Kreechures will receive 1%.
 ---
 
@@ -22,8 +22,6 @@ It might sell once a week, a month, a year, or 10 times a day.
 
 ### Implementation
 
-An account owner snapshot will take place on 23 September 2022, at 5:00pm EDT. This will be the first snapshot of several.
+An account owner snapshot took place on 23 September & 1 October 2022.
 
-All Kreechures, Deck 2, that are in your wallet, typically means 'unlisted', will have the Seller Fee Basis Points data updated so that your account receives 4% royalties on all future sells.
-
-An additional attribute, Royalties Finalized, will be updated to 'Yes' and then the metadata will be set to immutable, which means it can never be changed again
+All Kreechures, Deck 2, that were in collector's wallets had the Seller Fee Basis Points data updated so their account receives 4% royalties on all future sells.
