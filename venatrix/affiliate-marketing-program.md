@@ -36,3 +36,5 @@ Fees will be prorated by number of Kreechures owned per day participating in the
 The signup form is located [here](https://airtable.com/shrSUZ1V8pTJdNEnZ).
 
 Kreechures participating in the exact same program as the rest of the community creates an environment where we truly succeed together. We'll be in this together. Not much more beautiful than that.
+
+{_Of note, this concept of affiliate marketing for NFT collections began with Taiyo Robotics. I can't express enough appreciation to them for searching for sustainable, legal avenues to reward collectors._}
