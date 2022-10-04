@@ -2,7 +2,7 @@
 description: Solana has a discoverability problem. We intend to fix it.
 ---
 
-# Why Venatrix
+# Why Venatrix?
 
 The easiest questions seem to be so difficult
 
