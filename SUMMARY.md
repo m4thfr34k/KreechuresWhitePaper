@@ -7,7 +7,6 @@
       * [Special Abilities](overview/nft-collection/rarity/special-abilities.md)
   * [Tokenomics](overview/tokenomics/README.md)
     * [Kin](overview/tokenomics/kin.md)
-    * [Shadow](overview/tokenomics/shadow.md)
   * [Sustainability](overview/sustainability.md)
   * [Value creation](overview/value-creation.md)
 * [Royalties](royalties.md)
