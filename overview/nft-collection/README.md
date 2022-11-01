@@ -39,7 +39,6 @@ There are currently less than 5,000 Kreechures that have been created to date, s
 * [Homepage](https://www.kreechures.com/)
 * [Twitter](https://twitter.com/kreechures)
 * [Blog](https://www.kreechures.com/blog/)
-* [Text-based RPG](https://beta.kreechures.com/login)
-* [Collection on Magic Eden](https://magiceden.io/marketplace/kreechures)
+* [Collection on Hyperspace](https://hyperspace.xyz/collection/kreechures)
 * [Listings](https://listings.kreechures.com/)
 * [More...](https://linktr.ee/kreechures)
