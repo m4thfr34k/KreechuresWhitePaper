@@ -14,5 +14,3 @@
 * [Venatrix](venatrix.md)
   * [Why Venatrix?](venatrix/why-venatrix.md)
   * [Affiliate Marketing Program](venatrix/affiliate-marketing-program.md)
-* [Raffle](raffle.md)
-* [The Team](the-team.md)
