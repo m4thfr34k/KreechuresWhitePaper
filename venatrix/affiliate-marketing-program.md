@@ -30,7 +30,7 @@ Fees will be prorated by number of Kreechures owned per day participating in the
 * NFTs must be legal in your jurisdiction
 * All Solana tokens must be legal in your jurisdiction
 * Must be over the age of 18
-* Must agree to add **╞KREECHURES╡** to your twitter bio. A check will be done prior to payout.
+* Must agree to add〣 @KREECHURES ⬢ 〣 or 〣⬢ @KREECHURES, 1st #NFT project on #Solana ⬢〣to your twitter bio. A check will be done prior to payout.
 * Must claim your free Twitter domain from Bonfida**.** Payouts will be sent to the Solana account you have configured with your Twitter domain.
 
 The signup form is located [here](https://airtable.com/shrSUZ1V8pTJdNEnZ).
