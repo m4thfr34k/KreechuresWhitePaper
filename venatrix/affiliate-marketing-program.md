@@ -6,7 +6,7 @@ description: >-
 
 # Affiliate Marketing Program
 
-The v2 launch of Venatrix is inching closer. It's coming soon. Because of that, it's time to open sign-up for the affiliate marketing program.&#x20;
+
 
 **Kreechures Affiliate Marketing Program**
 
@@ -18,7 +18,7 @@ Fees collected from Venatrix will be dispersed in the following manner:
 * **70%** is allocated to all Kreechure owners that opt-in to the affiliate marketing program
 * Kreechures will also participate in this program with any Kreechures still owned by Kreechures
 
-An affiliate marketing dashboard is being added to the v2 Venatrix site that displays total fees collected, total participants, and total Kreechures included.
+The affiliate marketing dashboard can be found [here](https://beta.venatrix.xyz/affiliate).
 
 Fees will be dispersed, once a month, on a per Kreechure basis to all eligible participants.
 

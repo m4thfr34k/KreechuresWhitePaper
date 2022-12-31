@@ -22,6 +22,6 @@ It might sell once a week, a month, a year, or 10 times a day.
 
 ### Implementation
 
-Account owner snapshots have been taken on three different occasions for the purpose of updating royalties.
+An account owner snapshot took place on 23 September & 1 October 2022.
 
 All Kreechures, Deck 2, that were in collector's wallets had the Seller Fee Basis Points data updated so their account receives 4% royalties on all future sells.
