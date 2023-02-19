@@ -1,5 +1,5 @@
 ---
-description: Kreechures are the 1st NFT project and P2E game on Solana
+description: Kreechures are the 1st NFT project on Solana
 cover: .gitbook/assets/Kreechures_Banner.png
 coverY: 89.5741556534508
 ---
