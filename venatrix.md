@@ -6,7 +6,7 @@ description: Solana has a discoverability problem. We intend to fix it.
 
 Venatrix is an NFT marketplace to help mainstream users find their next creator membership, access pass, project to support, or even some cool art by following a specialty, boutique approach for collection data, listings, and discoverability.
 
-Venatrix is the only marketplace that provides users an option with what coin they use (KIN, USDC, DUST, SHDW, SOL), and is laser focused on existing collections that are consistently delivering value to their collectors and the Solana ecosystem.
+Venatrix is the only marketplace that provides users an option with what coin they use (SOL, USDC, DUST, SHDW, BONK, KIN) and is laser focused on existing collections that are consistently delivering value to their collectors and the Solana ecosystem.
 
 99.9% of the planet has no desire to become high-frequency NFT day-traders yet the entire ecosystem is focused on building tools and experiences that cater to the 0.1% that do.
 
