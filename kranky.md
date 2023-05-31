@@ -10,6 +10,8 @@ description: Krank around and find out
 
 \_\_\_
 
+\---
+
 Kranky is a game you can win based on your attention and patience.&#x20;
 
 Today's options:
