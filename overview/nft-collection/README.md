@@ -37,7 +37,4 @@ There are currently less than 5,000 Kreechures that have been created to date, s
 **Additional information:**
 
 * [Twitter](https://twitter.com/kreechures)
-* [Homepage](https://www.kreechures.com/)
-* [Blog](https://www.kreechures.com/blog/)
 * [Collection on Hyperspace](https://hyperspace.xyz/collection/kreechures)
-* [More...](https://linktr.ee/kreechures)

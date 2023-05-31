@@ -12,7 +12,7 @@ Venatrix is the only marketplace that provides users an option with what coin th
 
 99.9% of the planet has no desire to become high-frequency NFT day-traders yet the entire ecosystem is focused on building tools and experiences that cater to the 0.1% that do.
 
-The PoC is at [Venatrix](https://beta.venatrix.xyz/).
+
 
 The v2 Venatrix site includes:
 

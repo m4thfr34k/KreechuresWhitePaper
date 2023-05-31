@@ -7,7 +7,7 @@
       * [Special Abilities](overview/nft-collection/rarity/special-abilities.md)
   * [Sustainability](overview/sustainability.md)
 * [Royalties](royalties.md)
+* [Kranky](kranky.md)
 * [Venatrix](venatrix.md)
   * [Why Venatrix?](venatrix/why-venatrix.md)
   * [Affiliate Marketing Program](venatrix/affiliate-marketing-program.md)
-* [Kranky](kranky.md)
