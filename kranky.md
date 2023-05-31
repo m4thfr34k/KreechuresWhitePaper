@@ -56,6 +56,10 @@ A Krank creator can look at the Krank bonus to see how much they will receive on
 
 Krank cost will be configurable in the future.&#x20;
 
+The Krank creator is set as the default for the initial krank. What this means is, if no other player pushes the krank button then the NFT can be claimed by the creator after the time expires. If a single other player pushes the krank button then "the game is on".
+
+It costs 0.1 SOL to create a new Krank.
+
 ### Final thoughts
 
 Creating a Krank is better than running the typical giveaway, raffle, or auction.
