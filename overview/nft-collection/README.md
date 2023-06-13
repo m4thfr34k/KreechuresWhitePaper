@@ -6,7 +6,7 @@ coverY: 88.10572687224669
 
 # NFT Collection
 
-The Kreechures NFT collection was born on 26 March 2021. You can read about our journey [here](https://www.kreechures.com/2022/).
+The Kreechures NFT collection was born on 26 March 2021.&#x20;
 
 * [Metaplex](https://www.metaplex.com/) didn't exist
 * Candy Machine didn't exist
