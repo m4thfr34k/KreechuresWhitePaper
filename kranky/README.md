@@ -29,7 +29,7 @@ Pretty simple rules. You've got some prizes and a timer.
 * The first person to push the krank after time expires wins the bonus
 * For every push of the krank, a small amount of time is added to the time buffer and a small amount of $SOL is added to the Krank bonus
 
-Winning an NFT for 0.006 SOL ($0.12 USD), cost of a single Krank, sounds pretty cool.
+Winning an NFT for 0.006 SOL, cost of a single Krank, sounds pretty cool.
 
 There's no limit to how big the Krank bonus can get. Winning that Krank bonus for 0.006 SOL sounds pretty damn cool too lol
 
