@@ -1,12 +1,16 @@
 ---
 icon: card-diamond
-cover: .gitbook/assets/epicreserver_banner3.jpg
+cover: ../.gitbook/assets/epicreserver_banner3.jpg
 coverY: 0
 ---
 
 # Epic Reserve
 
 Unleash your creativity! Create unique NFT packs from your own collection.
+
+More information coming!
+
+**Links:**
 
 * Epic Reserve site
 * Open an NFT pack
