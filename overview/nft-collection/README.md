@@ -32,6 +32,10 @@ Kreechures were originally intended to be released one at a time on a 10-15 minu
 
 There are currently less than 5,000 Kreechures that have been created to date, separated into two Decks (Decks 1 & 2). An individual deck has a max of 2500 Kreechures.
 
+The first 689 Kreechures, Metadata = Deck 1 & Deck Sequence Number <= 689, were born before the next collection began.
+
+Deck 1 began in March 2021 and Deck 2 in December 2021.
+
 
 
 **Additional information:**
