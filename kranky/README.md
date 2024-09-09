@@ -2,7 +2,7 @@
 description: Krank around and find out
 ---
 
-# Kranky
+# ⚙️ Kranky
 
 * Tired - Giveaways
 * Expired - Raffles

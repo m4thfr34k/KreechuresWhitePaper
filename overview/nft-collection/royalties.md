@@ -4,7 +4,7 @@ description: >-
   from every sell. Kreechures will receive 1%.
 ---
 
-# Royalties
+# 💰 Royalties
 
 ### What are NFT Royalties?
 

@@ -4,7 +4,7 @@ cover: .gitbook/assets/Kreechures_Banner.png
 coverY: 89.5741556534508
 ---
 
-# Overview
+# 🎨 Overview
 
 Kreechures are crypto-collectibles and Alien NFTs that arrived on earth and need a home. They are non-fungible tokens (NFTs) stored on the [Solana](https://solana.com/) (SOL) blockchain.&#x20;
 

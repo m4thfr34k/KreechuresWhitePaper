@@ -1,4 +1,4 @@
-# Rarity
+# 🔢 Rarity
 
 ### **Species Rarity:**&#x20;
 

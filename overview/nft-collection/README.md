@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Kreechures_Banner (1).png
 coverY: 88.10572687224669
 ---
 
-# NFT Collection
+# 🖼️ NFT Collection
 
 The Kreechures NFT collection was born on 26 March 2021.&#x20;
 
