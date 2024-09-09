@@ -13,6 +13,7 @@ More information coming!
 **Links:**
 
 * Epic Reserve site
+* [Twitter](https://twitter.com/epicreserve)
 * Open an NFT pack
 * Magic Eden link to existing NFT packs
 * Tensor link to existing NFT packs
