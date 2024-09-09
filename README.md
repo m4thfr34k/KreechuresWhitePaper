@@ -19,4 +19,4 @@ Kreechures are generative on-chain NFTs.
 * [Kreechure #1](https://explorer.solana.com/address/6e6XzDLpyxRF1zBxnx686bY8cwyVpmmZRgNJCte1VWrE)
 * [Transaction for Kreechure #1](https://explorer.solana.com/tx/4HqFpv5WUQAfKeqPrnfUnmNB3HabSL5Q31H5upMBZKEYC4CzTDFqNnTY5KDXcU59LsQsNQFeNJ9XL98msg5fKewe)
 
-See something that can be improved? Let us know in [Discord](https://discord.gg/4huPsH82we) or at the [helpdesk](mailto:help@kreechures.com). Thank you!
+See something that can be improved? Let us know in [Discord](https://discord.gg/CkA7mMeNDA) or at the [helpdesk](mailto:help@kreechures.com). Thank you!
