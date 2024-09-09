@@ -8,3 +8,4 @@
   * [Royalties](overview/royalties.md)
 * [Kranky](kranky/README.md)
   * [🚀 How to run a successful event](kranky/how-to-run-a-successful-event.md)
+* [Epic Reserve](epic-reserve.md)
