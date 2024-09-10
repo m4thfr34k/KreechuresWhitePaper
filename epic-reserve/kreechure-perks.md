@@ -4,4 +4,4 @@ Fees from Epic Reserve packs, 10% of the creation fee and 10% of the royalty, wi
 
 **Links:**
 
-* Kreechure holder affiliate wallet
+* Pending - Kreechure holder affiliate wallet
