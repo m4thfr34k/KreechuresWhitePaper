@@ -8,5 +8,6 @@
     * [💰 Royalties](overview/nft-collection/royalties.md)
 * [Epic Reserve](epic-reserve/README.md)
   * [🔥 Kreechure perks](epic-reserve/kreechure-perks.md)
+  * [🔜 Upcoming](epic-reserve/upcoming.md)
 * [⚙️ Kranky](kranky/README.md)
   * [🚀 How to run a successful event](kranky/how-to-run-a-successful-event.md)
