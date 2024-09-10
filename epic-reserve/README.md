@@ -8,7 +8,11 @@ coverY: 0
 
 Unleash your creativity! Create unique NFT packs from your own collection.
 
-More information coming!
+Epic Reserve NFT packs give you the power to curate your own collector packs, any theme / include multiple collections, for collecting, trading, or selling.
+
+You've been curating your collection for years. Now you can share that creativity with the world.
+
+Create "welcome" packs, the tops hits, or even packs to give discounts when someone buys in bulk. NFT packs offer completely new ways to engage your community, complete your collection, and sale NFTs.
 
 **Links:**
 
