@@ -1,5 +1,6 @@
 ---
 description: Krank around and find out
+hidden: true
 ---
 
 # ⚙️ Kranky

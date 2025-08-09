@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: card-diamond
 cover: ../.gitbook/assets/epicreserver_banner3.jpg
 coverY: 0
