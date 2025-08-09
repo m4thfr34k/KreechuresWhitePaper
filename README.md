@@ -12,7 +12,13 @@ Kreechures are generative on-chain NFTs.
 
 1st Mint: March 26th, 2021
 
+The earliest Kreechures were born on a schedule, every 15ish mins. Because of this you'll see references to:
 
+* Day 1 - those born on 26 March 2021
+* March babies - those born the last few days of March 2021
+* The 689 - those Kreechures born before the next project started
+
+There are several different rarities in the collection that are discussed further on the rarities page.
 
 **Additional information:**
 
